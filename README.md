@@ -1,4 +1,5 @@
-![Screenshot (345)](https://github.com/user-attachments/assets/077c05ab-7420-4c58-925e-44a3f6beb799)Name: Haridharshini J
+Name: Haridharshini J
+
 Register number: 212224040098
 # HALF_ADDER_SUBTRACTOR
 
