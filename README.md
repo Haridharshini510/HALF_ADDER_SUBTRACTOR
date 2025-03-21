@@ -81,7 +81,6 @@ and(borrow, ~a, b);
 endmodule
 
 
-
 **RTL Schematic**
 ![Screenshot (348)](https://github.com/user-attachments/assets/96776a7f-a8c1-4493-8b67-6f2d7adb9433)
 
