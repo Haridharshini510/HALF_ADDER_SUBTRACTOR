@@ -52,29 +52,18 @@ Figure -02 HALF Subtractor
 
 
 **Program:**
-Half adder
 
-module exp2(a,b,sum,carry);
+module exp2(a,b,sum,carry,diff,borrow);
 
 input a,b;
 
-output sum,carry;
+output sum,carry,diff,borrow;
 
 xor(sum,a,b);
 
 and(carry,a,b);
 
-endmodule
-
-Half subtractor
-
-module exp3(a, b, diff, borrow);
-
-input a, b;
-
-output diff, borrow;
-
-xor(diff, a, b);
+xor(diff, a, b); 
 
 and(borrow, ~a, b); 
 
@@ -82,15 +71,14 @@ endmodule
 
 
 **RTL Schematic**
-![Screenshot (348)](https://github.com/user-attachments/assets/96776a7f-a8c1-4493-8b67-6f2d7adb9433)
+![Screenshot (350)](https://github.com/user-attachments/assets/43d16d8c-bf61-4470-b258-b902ecbf9b03)
 
-![Screenshot (345)](https://github.com/user-attachments/assets/9e8561b4-abfb-4830-81ac-0d51060af9fc)
+
 
 
 **Output/TIMING Waveform**
-![Screenshot (349)](https://github.com/user-attachments/assets/23fa1b8f-83f7-4c6d-9a90-8a3924341898)
 
-![Screenshot (347)](https://github.com/user-attachments/assets/abd275ce-a0dd-4d1a-9481-3377589d8a39)
+![Screenshot (351)](https://github.com/user-attachments/assets/776456ff-ce97-4dc7-8e77-660196ffebc8)
 
 
 
@@ -98,4 +86,5 @@ endmodule
 
 
 **Result:**
+The code is executed successfully.
 
