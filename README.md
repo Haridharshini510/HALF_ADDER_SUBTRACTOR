@@ -86,8 +86,6 @@ endmodule
 
 ![Screenshot (345)](https://github.com/user-attachments/assets/54f2b76c-8d21-4882-8a5e-d957b37b7741)
 
-
-
 **Output/TIMING Waveform**
 
 ![Screenshot (349)](https://github.com/user-attachments/assets/aed05764-798f-4387-82d7-617b40ce60f9)
