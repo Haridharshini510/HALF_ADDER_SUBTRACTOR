@@ -1,4 +1,4 @@
-Name: Haridharshini J
+![Screenshot (345)](https://github.com/user-attachments/assets/077c05ab-7420-4c58-925e-44a3f6beb799)Name: Haridharshini J
 Register number: 212224040098
 # HALF_ADDER_SUBTRACTOR
 
@@ -82,16 +82,18 @@ endmodule
 
 
 **RTL Schematic**
-![Screenshot (348)](https://github.com/user-attachments/assets/6054c203-f755-405e-bccf-d84d746eeb1f)
+![Screenshot (348)](https://github.com/user-attachments/assets/96776a7f-a8c1-4493-8b67-6f2d7adb9433)
 
-![Screenshot (345)](https://github.com/user-attachments/assets/54f2b76c-8d21-4882-8a5e-d957b37b7741)
+![Screenshot (345)](https://github.com/user-attachments/assets/9e8561b4-abfb-4830-81ac-0d51060af9fc)
+
 
 **Output/TIMING Waveform**
+![Screenshot (349)](https://github.com/user-attachments/assets/23fa1b8f-83f7-4c6d-9a90-8a3924341898)
 
-![Screenshot (349)](https://github.com/user-attachments/assets/aed05764-798f-4387-82d7-617b40ce60f9)
+![Screenshot (347)](https://github.com/user-attachments/assets/abd275ce-a0dd-4d1a-9481-3377589d8a39)
 
 
-![Screenshot (347)](https://github.com/user-attachments/assets/c00a2c31-6b86-49eb-9464-d24d7f25d768)
+
 
 
 
